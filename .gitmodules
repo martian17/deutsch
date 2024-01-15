@@ -1,0 +1,3 @@
+[submodule "German-English-JSON-Dictionary"]
+	path = dictionary
+	url = https://github.com/hathibelagal/German-English-JSON-Dictionary.git
