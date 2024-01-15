@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt ttp:contentProfiles="http://www.w3.org/ns/ttml/profile/imsc1.1/text" xmlns="http://www.w3.org/ns/ttml" xmlns:nttm="http://www.netflix.com/ns/ttml#metadata" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xml="http://www.w3.org/XML/1998/namespace" ttp:tickRate="10000000" ttp:timeBase="media" xml:lang="de">
+<head>
+<metadata nttm:Smpte24TimingAdjusted="true" nttm:schemaVersion="0" nttm:textType="SUBS" nttm:uuid="c52e9826-8dd5-450e-8c85-408bdf5d9c45"/>
+<styling>
+<initial tts:backgroundColor="transparent" tts:color="white" tts:displayAlign="after" tts:extent="80.000% 80.000%" tts:opacity="1.000" tts:origin="10.000% 10.000%" tts:showBackground="whenActive" tts:textAlign="center" tts:textOutline="black 0.300rh" tts:writingMode="lrtb"/>
+<style xml:id="style0" tts:fontWeight="normal"/>
+<style xml:id="style1" tts:fontStyle="italic" tts:fontWeight="normal"/>
+</styling>
+<layout>
+<region xml:id="region0" tts:displayAlign="after" tts:extent="80.000% 80.000%" tts:origin="10.000% 10.000%"/>
+<region xml:id="region1" tts:displayAlign="before" tts:extent="80.000% 80.000%" tts:origin="10.000% 10.000%"/>
+</layout>
+</head>
+<body>
+<div>
+<p xml:id="subtitle1" begin="10010000t" end="40040000t" region="region0" style="style0">ORIGINALWERK VON RYOKO KUI</p>
+<p xml:id="subtitle2" begin="46713332t" end="69652916t" region="region0" style="style0"><span style="style1">Es begann alles in einem kleinen Dorf.</span></p>
+<p xml:id="subtitle3" begin="82582500t" end="127210416t" region="region0" style="style0"><span style="style1">Eines Tages verursachte ein Grollen<br/>im Boden eine Kluft unter dem Friedhof,</span></p>
+<p xml:id="subtitle4" begin="128044582t" end="155572082t" region="region0" style="style0"><span style="style1">aus der ein einzelner Mann emporstieg.</span></p>
+<p xml:id="subtitle5" begin="161828332t" end="203119582t" region="region0" style="style0"><span style="style1">Er behauptete, der König eines<br/>einst wohlhabenden Königreichs zu sein</span></p>
+<p xml:id="subtitle6" begin="215214999t" end="238571666t" region="region0" style="style0"><span style="style1">und dass das einst glorreiche Land</span></p>
+<p xml:id="subtitle7" begin="239405832t" end="268184582t" region="region0" style="style0"><span style="style1">immer noch tief unter der Erde</span></p>
+<p xml:id="subtitle8" begin="269018750t" end="295712082t" region="region0" style="style0"><span style="style1">von einem irren Zauberer<br/>terrorisiert werde.</span></p>
+<p xml:id="subtitle9" begin="305722082t" end="324907916t" region="region0" style="style0"><span style="style1">Dem Sieger über diesen Zauberer</span></p>
+<p xml:id="subtitle10" begin="325742082t" end="347430416t" region="region0" style="style0"><span style="style1">bot er alles in seinem Reich.</span></p>
+<p xml:id="subtitle11" begin="358274582t" end="396646250t" region="region0" style="style0"><span style="style1">Danach verwandelte er sich<br/>in Staub und verschwand.</span></p>
+<p xml:id="subtitle12" begin="450867082t" end="489655832t" region="region0" style="style0">DELICIOUS IN DUNGEON</p>
+<p xml:id="subtitle13" begin="596846250t" end="611861250t" region="region0" style="style0">Weiter so, Leute!</p>
+<p xml:id="subtitle14" begin="612695416t" end="631047082t" region="region0" style="style0">Nach dem Drachen war es das.</p>
+<p xml:id="subtitle15" begin="639388750t" end="651067082t" region="region0" style="style0">Los!</p>
+<p xml:id="subtitle16" begin="658157500t" end="668584582t" region="region0" style="style0"><span style="style1">Wir sind bereit.</span></p>
+<p xml:id="subtitle17" begin="675257916t" end="691107082t" region="region0" style="style0"><span style="style1">Nichts kann uns aufhalten.</span></p>
+<p xml:id="subtitle18" begin="744493750t" end="757006250t" region="region0" style="style0"><span style="style1">Das stimmt nicht.</span></p>
+<p xml:id="subtitle19" begin="773689582t" end="784533750t" region="region0" style="style0"><span style="style1">Wir haben Hunger.</span></p>
+<p xml:id="subtitle20" begin="807890416t" end="832081250t" region="region0" style="style0"><span style="style1">Wir sind nicht so agil wie sonst.</span></p>
+<p xml:id="subtitle21" begin="844593749t" end="880462916t" region="region0" style="style0"><span style="style1">Wegen eines Fehlers auf der Karte<br/>verloren wir einen Tag.</span></p>
+<p xml:id="subtitle22" begin="881297082t" end="913412499t" region="region0" style="style0"><span style="style1">In einer Falle<br/>verloren wir Proviant für drei Tage.</span></p>
+<p xml:id="subtitle23" begin="965547916t" end="1007256249t" region="region0" style="style0"><span style="style1">Wir müssen leider umkehren,<br/>nachdem wir den Drachen besiegt haben.</span></p>
+<p xml:id="subtitle24" begin="1008090416t" end="1019351666t" region="region0" style="style0">Laios!</p>
+<p xml:id="subtitle25" begin="1025190832t" end="1036869166t" region="region0" style="style0"><span style="style1">Was ist, Falin?</span></p>
+<p xml:id="subtitle26" begin="1037703332t" end="1059391666t" region="region0" style="style0"><span style="style1">Ist das ein Verwirrungszauber?</span></p>
+<p xml:id="subtitle27" begin="1082748332t" end="1094426666t" region="region0" style="style0"><span style="style1">W…</span></p>
+<p xml:id="subtitle28" begin="1119034582t" end="1129878750t" region="region0" style="style0"><span style="style1">Was?</span></p>
+<p xml:id="subtitle29" begin="1144476666t" end="1154486666t" region="region0" style="style0"><span style="style1">Ihr scherzt doch.</span></p>
+<p xml:id="subtitle30" begin="1162828332t" end="1192024166t" region="region0" style="style0"><span style="style1">Wir sind alle tot?<br/>Wir sind tief im Kerker.</span></p>
+<p xml:id="subtitle31" begin="1201200000t" end="1232064166t" region="region0" style="style0">F... Flieht!</p>
+<p xml:id="subtitle32" begin="1350515832t" end="1360942916t" region="region0" style="style0">Laios!</p>
+<p xml:id="subtitle33" begin="1404319582t" end="1415580832t" region="region0" style="style0">Du bist wach.</p>
+<p xml:id="subtitle34" begin="1423922500t" end="1461460000t" region="region1" style="style0">Ein Zauberspruch hat uns<br/>aus dem Kerker befreit,</p>
+<p xml:id="subtitle35" begin="1469384582t" end="1491072916t" region="region0" style="style0">aber nur Falin fehlt noch.</p>
+<p xml:id="subtitle36" begin="1525273750t" end="1539454582t" region="region0" style="style0">Sie wurde gefressen.</p>
+<p xml:id="subtitle37" begin="1540288750t" end="1549464582t" region="region0" style="style0">Was?</p>
+<p xml:id="subtitle38" begin="1556972082t" end="1581580000t" region="region0" style="style0">Ihre Magie wirkte im Drachen nicht.</p>
+<p xml:id="subtitle39" begin="1591590000t" end="1606187916t" region="region0" style="style0">Das kann nicht sein.</p>
+<p xml:id="subtitle40" begin="1607022082t" end="1623288332t" region="region0" style="style0">Sie ist noch im Kerker.</p>
+<p xml:id="subtitle41" begin="1629127500t" end="1639137500t" region="region0" style="style0">Retten wir sie.</p>
+<p xml:id="subtitle42" begin="1644142500t" end="1659157500t" region="region0" style="style0">Warte.</p>
+<p xml:id="subtitle43" begin="1667916250t" end="1717966249t" region="region0" style="style0">Wir haben fast all unseren Besitz<br/>im Kerker zurückgelassen.</p>
+<p xml:id="subtitle44" begin="1725890832t" end="1738820416t" region="region0" style="style0">Wir sind pleite.</p>
+<p xml:id="subtitle45" begin="1743825416t" end="1752167082t" region="region0" style="style0">Was?</p>
+<p xml:id="subtitle46" begin="1753001249t" end="1770935832t" region="region0" style="style0">Und was noch schlimmer ist…</p>
+<p xml:id="subtitle47" begin="1771769999t" end="1782197082t" region="region0" style="style0">Chilchuck?</p>
+<p xml:id="subtitle48" begin="1788036249t" end="1812227082t" region="region0" style="style0">Wir haben zwei Gefährten verloren.</p>
+<p xml:id="subtitle49" begin="1813061249t" end="1823071249t" region="region0" style="style0">KÜNDIGUNG</p>
+<p xml:id="subtitle50" begin="1823905416t" end="1832247082t" region="region0" style="style0">Was ist das?</p>
+<p xml:id="subtitle51" begin="1838086249t" end="1873121249t" region="region0" style="style0">Offenbar hat<br/>ein anderer Trupp sie angeheuert.</p>
+<p xml:id="subtitle52" begin="1873955416t" end="1887302082t" region="region0" style="style0">Was?</p>
+<p xml:id="subtitle53" begin="1894809582t" end="1917332082t" region="region0" style="style0"><span style="style1">Dungeons zu erkunden, kostet Geld:</span></p>
+<p xml:id="subtitle54" begin="1918166249t" end="1957372082t" region="region0" style="style0"><span style="style1">Man braucht Gefährten,<br/>Ausrüstung und Proviant.</span></p>
+<p xml:id="subtitle55" begin="1963211249t" end="2001999999t" region="region0" style="style0"><span style="style1">Wir können<br/>unsere aktuelle Ausrüstung verkaufen</span></p>
+<p xml:id="subtitle56" begin="2002834166t" end="2025773749t" region="region0" style="style0"><span style="style1">und auf eine billigere umsteigen.</span></p>
+<p xml:id="subtitle57" begin="2026607916t" end="2072487082t" region="region0" style="style0"><span style="style1">Proviant, Medizin, Bedarfsgüter<br/>und neue Gefährten brauchen wir auch.</span></p>
+<p xml:id="subtitle58" begin="2073321249t" end="2097512082t" region="region0" style="style0">-Haben wir genug?<br/>-Nicht annähernd.</p>
+<p xml:id="subtitle59" begin="2104185416t" end="2138803332t" region="region1" style="style0">In der Zwischenzeit würde meine Schwester<br/>verdaut werden.</p>
+<p xml:id="subtitle60" begin="2144642499t" end="2172170000t" region="region0" style="style0">Man kann Leute<br/>aus Fetzen wiederbeleben, oder?</p>
+<p xml:id="subtitle61" begin="2173004166t" end="2196360832t" region="region0" style="style0">Geht das auch mit Kacke?</p>
+<p xml:id="subtitle62" begin="2202617082t" end="2224722500t" region="region0" style="style0">Das wäre mir neu.</p>
+<p xml:id="subtitle63" begin="2257255000t" end="2278109166t" region="region0" style="style0">Wir sind zwar knapp bei Kasse,</p>
+<p xml:id="subtitle64" begin="2278943332t" end="2296043750t" region="region0" style="style0">aber wie wär's mit Essen?</p>
+<p xml:id="subtitle65" begin="2296877916t" end="2331078750t" region="region0" style="style0">Vielleicht haben wir<br/>wegen unserer leeren Mägen versagt.</p>
+<p xml:id="subtitle66" begin="2339837500t" end="2359857500t" region="region0" style="style0">Was sollen wir essen?</p>
+<p xml:id="subtitle67" begin="2360691666t" end="2394892500t" region="region0" style="style0">Im Bistro auf der Hauptstraße<br/>gibt es günstiges Essen.</p>
+<p xml:id="subtitle68" begin="2395726666t" end="2419083332t" region="region0" style="style0">Der Lachende Wolf hat große Portionen.</p>
+<p xml:id="subtitle69" begin="2419917500t" end="2449113332t" region="region0" style="style0">Aber die Kneipe ist auch unwiderstehlich!</p>
+<p xml:id="subtitle70" begin="2449947500t" end="2480394582t" region="region0" style="style0">Ihre Teigtaschen sind zum Sterben gut.</p>
+<p xml:id="subtitle71" begin="2481228750t" end="2496660832t" region="region0" style="style0">-Nein.<br/>-Was?</p>
+<p xml:id="subtitle72" begin="2502500000t" end="2523354166t" region="region0" style="style0">Wir müssen zurück in den Dungeon.</p>
+<p xml:id="subtitle73" begin="2524188332t" end="2537535000t" region="region0" style="style0">Aber in dem Zustand…</p>
+<p xml:id="subtitle74" begin="2543374166t" end="2555469582t" region="region0" style="style0">Ich habe eine Idee.</p>
+<p xml:id="subtitle75" begin="2563811250t" end="2588002082t" region="region0" style="style0">-Ihr zwei verlasst den Trupp.<br/>-Was?</p>
+<p xml:id="subtitle76" begin="2588836250t" end="2629293332t" region="region0" style="style0">Wir verkaufen eure Ausrüstung,<br/>und ich gehe allein zurück.</p>
+<p xml:id="subtitle77" begin="2630127500t" end="2643474166t" region="region0" style="style0">Das ist verrückt.</p>
+<p xml:id="subtitle78" begin="2644308332t" end="2654318332t" region="region0" style="style0">Willst du sterben?</p>
+<p xml:id="subtitle79" begin="2655152500t" end="2692272916t" region="region0" style="style0">So können wir<br/>qualitativ hochwertige Ausrüstung kaufen,</p>
+<p xml:id="subtitle80" begin="2693107082t" end="2726890832t" region="region0" style="style0">und allein<br/>kann ich Monster besser umgehen.</p>
+<p xml:id="subtitle81" begin="2732730000t" end="2746910832t" region="region0" style="style0">Es ist nicht unmöglich.</p>
+<p xml:id="subtitle82" begin="2747745000t" end="2769433332t" region="region0" style="style0">Es ist sowieso alles meine Schuld.</p>
+<p xml:id="subtitle83" begin="2770267500t" end="2797377916t" region="region0" style="style0">Ich kann euch nicht auch noch gefährden.</p>
+<p xml:id="subtitle84" begin="2827407916t" end="2845342500t" region="region0" style="style0">Ich komme auf jeden Fall mit.</p>
+<p xml:id="subtitle85" begin="2846176666t" end="2868282082t" region="region0" style="style0">Ich tue alles, um Falin zu retten.</p>
+<p xml:id="subtitle86" begin="2869116250t" end="2890387500t" region="region0" style="style0">Sie ist mir auch wichtig.</p>
+<p xml:id="subtitle87" begin="2903734166t" end="2926256666t" region="region0" style="style0">Ich halte dich auch nicht zurück.</p>
+<p xml:id="subtitle88" begin="2927090832t" end="2955452500t" region="region0" style="style0">Du weißt, wie stark meine Magie ist.</p>
+<p xml:id="subtitle89" begin="2956286666t" end="2985482500t" region="region0" style="style0">Vergiss meinen Job nicht.</p>
+<p xml:id="subtitle90" begin="2986316666t" end="3021768750t" region="region0" style="style0">Ich muss Türen öffnen<br/>und Fallen deaktivieren.</p>
+<p xml:id="subtitle91" begin="3022602916t" end="3039286250t" region="region0" style="style0">Leute…</p>
+<p xml:id="subtitle92" begin="3067647916t" end="3101848750t" region="region0" style="style0">Ihr wollt wirklich mitkommen, stimmt's?</p>
+<p xml:id="subtitle93" begin="3102682916t" end="3121868750t" region="region0" style="style0">Koste es, was es wolle?</p>
+<p xml:id="subtitle94" begin="3135215416t" end="3147727916t" region="region0" style="style0">J... Ja.</p>
+<p xml:id="subtitle95" begin="3163994166t" end="3189436250t" region="region0" style="style0">Wir sichern uns im Kerker Nahrung.</p>
+<p xml:id="subtitle96" begin="3190270416t" end="3199446250t" region="region0" style="style0">-Was?<br/>-Was?</p>
+<p xml:id="subtitle97" begin="3200280416t" end="3227390832t" region="region0" style="style0">Es sind mehr als genug Monster im Kerker.</p>
+<p xml:id="subtitle98" begin="3228225000t" end="3259506250t" region="region0" style="style0">Dann muss da auch<br/>ein ganzes Ökosystem existieren.</p>
+<p xml:id="subtitle99" begin="3265762500t" end="3299963332t" region="region0" style="style0">Fleischfresser ernähren sich<br/>von Pflanzenfressern,</p>
+<p xml:id="subtitle100" begin="3300797500t" end="3322068750t" region="region0" style="style0">Pflanzenfresser von Pflanzen,</p>
+<p xml:id="subtitle101" begin="3322902916t" end="3349596250t" region="region0" style="style0">Pflanzen von Wasser, Licht und Erde.</p>
+<p xml:id="subtitle102" begin="3350430416t" end="3392138749t" region="region0" style="style0">Mit anderen Worten,<br/>Menschen können im Dungeon auch essen.</p>
+<p xml:id="subtitle103" begin="3426756666t" end="3438434999t" region="region0" style="style0">Wir sollen also</p>
+<p xml:id="subtitle104" begin="3444274166t" end="3458454999t" region="region0" style="style0">Monster essen?</p>
+<p xml:id="subtitle105" begin="3464294166t" end="3478057916t" region="region0" style="style0">Monster auch, ja.</p>
+<p xml:id="subtitle106" begin="3478892082t" end="3500997499t" region="region0" style="style0">Denk an unsere bisherigen Abenteuer.</p>
+<p xml:id="subtitle107" begin="3501831666t" end="3536032499t" region="region0" style="style0">Da waren jede Menge leckere Dinger.</p>
+<p xml:id="subtitle108" begin="3545625416t" end="3569816249t" region="region0" style="style0">Nein, die esse ich auf keinen Fall.</p>
+<p xml:id="subtitle109" begin="3570650416t" end="3603599999t" region="region0" style="style0">Viele Leute jagen Monster,<br/>um sie zu essen.</p>
+<p xml:id="subtitle110" begin="3604434166t" end="3636549582t" region="region0" style="style0">Etwa die Verbrecher,<br/>die nicht nach oben dürfen?</p>
+<p xml:id="subtitle111" begin="3637383749t" end="3671167499t" region="region0" style="style0">Die kriegen auch<br/>ständig Lebensmittelvergiftungen.</p>
+<p xml:id="subtitle112" begin="3678257916t" end="3703699999t" region="region0" style="style0">Du wolltest doch alles für Falin tun.</p>
+<p xml:id="subtitle113" begin="3704534166t" end="3721217499t" region="region0" style="style0">Außer Monster essen!</p>
+<p xml:id="subtitle114" begin="3722051666t" end="3752081666t" region="region1" style="style0">Wir haben weder Zeit noch Geld.<br/>Was bleibt uns übrig?</p>
+<p xml:id="subtitle115" begin="3752915832t" end="3773352916t" region="region1" style="style0">Das nützt alles nichts,</p>
+<p xml:id="subtitle116" begin="3774187082t" end="3797126666t" region="region1" style="style0">wenn wir<br/>eine Lebensmittelvergiftung kriegen.</p>
+<p xml:id="subtitle117" begin="3808387916t" end="3827573749t" region="region0" style="style0">Lauft weg!</p>
+<p xml:id="subtitle118" begin="3840503332t" end="3861357499t" region="region0" style="style0">Rettet uns!</p>
+<p xml:id="subtitle119" begin="3887633749t" end="3906819582t" region="region0" style="style0">Das waren wohl Dungeon-Neulinge.</p>
+<p xml:id="subtitle120" begin="3915995416t" end="3951864582t" region="region0" style="style0">Die sind wohl<br/>aus dem falschen Holz geschnitzt.</p>
+<p xml:id="subtitle121" begin="3958537916t" end="3981894582t" region="region0" style="style0">Hey, Laios?</p>
+<p xml:id="subtitle122" begin="3987733749t" end="4009422082t" region="region0" style="style0">Das ist unser Mittagessen.</p>
+<p xml:id="subtitle123" begin="4010256249t" end="4028190832t" region="region0" style="style0">Ich weigere mich!</p>
+<p xml:id="subtitle124" begin="4029024999t" end="4055718332t" region="region0" style="style0">Nein, auf keinen Fall!</p>
+<p xml:id="subtitle125" begin="4061974582t" end="4086999582t" region="region0" style="style0">Ist es nicht riskant,<br/>direkt Pilze zu essen?</p>
+<p xml:id="subtitle126" begin="4087833749t" end="4135798332t" region="region0" style="style0">Laut Dungeonführer<br/>sind sie für Anfänger geeignet.</p>
+<p xml:id="subtitle127" begin="4136632499t" end="4164159999t" region="region0" style="style0">Sie sind fleischig und mild im Geschmack.</p>
+<p xml:id="subtitle128" begin="4164994166t" end="4190436249t" region="region0" style="style0">-Was ist das für ein Buch?<br/>-Sieht alt aus.</p>
+<p xml:id="subtitle129" begin="4200446249t" end="4223385832t" region="region0" style="style0">Lasst uns ein Feuer machen.</p>
+<p xml:id="subtitle130" begin="4228390832t" end="4248827916t" region="region0" style="style0">Mehr Zutaten wären schön.</p>
+<p xml:id="subtitle131" begin="4271767499t" end="4301797500t" region="region0" style="style0">So klingt nur ein Riesenskorpion!</p>
+<p xml:id="subtitle132" begin="4307219582t" end="4325988332t" region="region0" style="style0">Könnte es sein, dass er…</p>
+<p xml:id="subtitle133" begin="4326822500t" end="4356852500t" region="region0" style="style0"><span style="style1">Obwohl es ein Dungeon ist,<br/>gehen viele ein und aus,</span></p>
+<p xml:id="subtitle134" begin="4357686666t" end="4381877500t" region="region0" style="style0"><span style="style1">was Abenteurer und Händler anzieht.</span></p>
+<p xml:id="subtitle135" begin="4386882500t" end="4402731666t" region="region1" style="style0"><span style="style1">Als ehemaliger Friedhof</span></p>
+<p xml:id="subtitle136" begin="4403565832t" end="4433595832t" region="region1" style="style0"><span style="style1">und heiliger Ort<br/>schliefen Dörfler hier friedlich.</span></p>
+<p xml:id="subtitle137" begin="4434430000t" end="4467379582t" region="region0" style="style0"><span style="style1">Aber vor sechs Jahren<br/>wurde er an den Dungeon angeschlossen</span></p>
+<p xml:id="subtitle138" begin="4468213750t" end="4498243750t" region="region0" style="style0"><span style="style1">und ist jetzt der lebendigste Ort im Dorf.</span></p>
+<p xml:id="subtitle139" begin="4504500000t" end="4539952082t" region="region0" style="style0"><span style="style1">Die Monster sollen<br/>aus den Tiefen des Dungeons kommen.</span></p>
+<p xml:id="subtitle140" begin="4540786250t" end="4581243332t" region="region0" style="style0"><span style="style1">Hat ein verbotener Zauber<br/>irdische Kreaturen verwandelt,</span></p>
+<p xml:id="subtitle141" begin="4582077500t" end="4615027082t" region="region0" style="style0"><span style="style1">oder wurden sie<br/>aus der Monsterwelt beschworen?</span></p>
+<p xml:id="subtitle142" begin="4615861250t" end="4644222916t" region="region0" style="style0"><span style="style1">Aber sie haben alle<br/>eine seltsame Erscheinung</span></p>
+<p xml:id="subtitle143" begin="4645057082t" end="4673418750t" region="region0" style="style0"><span style="style1">und greifen Menschen an,<br/>als hätten sie etwas zu beschützen.</span></p>
+<p xml:id="subtitle144" begin="4680926250t" end="4711373332t" region="region0" style="style0"><span style="style1">Aber dies diente uns als einziger Beweis,</span></p>
+<p xml:id="subtitle145" begin="4712207500t" end="4745157082t" region="region0" style="style0"><span style="style1">dass die verfluchte Hauptstadt<br/>wirklich existiert.</span></p>
+<p xml:id="subtitle146" begin="4763925832t" end="4780609166t" region="region0" style="style0">Das ist kein Flusskrebs.</p>
+<p xml:id="subtitle147" begin="4781443332t" end="4816061250t" region="region0" style="style0">Er ist leichter zu fangen<br/>als ein Flusskrebs.</p>
+<p xml:id="subtitle148" begin="4816895416t" end="4827739582t" region="region0" style="style0">Hey.</p>
+<p xml:id="subtitle149" begin="4833578750t" end="4880709166t" region="region0" style="style0">Du willst schon<br/>seit längerem Monster essen, stimmt's?</p>
+<p xml:id="subtitle150" begin="4902397500t" end="4932010416t" region="region0" style="style0">Ich will trotzdem meine Schwester retten.</p>
+<p xml:id="subtitle151" begin="4938266666t" end="4946608332t" region="region0" style="style0">Schon gut.</p>
+<p xml:id="subtitle152" begin="4947442500t" end="4982894582t" region="region0" style="style0">Ich habe euch das nie gesagt,<br/>aber ich liebe Monster.</p>
+<p xml:id="subtitle153" begin="4983728750t" end="5016678332t" region="region0" style="style0">Ihr Aussehen und ihre Schreie<br/>bis hin zu ihrer Umwelt.</p>
+<p xml:id="subtitle154" begin="5017512500t" end="5040869166t" region="region0" style="style0">Ich wollte wissen, wie sie schmecken.</p>
+<p xml:id="subtitle155" begin="5041703332t" end="5052547500t" region="region0" style="style0">Er ist ein Psychopath.</p>
+<p xml:id="subtitle156" begin="5107602500t" end="5142637500t" region="region0" style="style0">Sollten wir das nicht wo machen,<br/>wo weniger Leute sind?</p>
+<p xml:id="subtitle157" begin="5143471666t" end="5175587082t" region="region0" style="style0">Es ist schwer, Wasser zu finden.</p>
+<p xml:id="subtitle158" begin="5186431250t" end="5209787916t" region="region0" style="style0">Also, wie essen wir die?</p>
+<p xml:id="subtitle159" begin="5210622082t" end="5230642082t" region="region0" style="style0">Versuchen wir einen orthodoxen Ansatz.</p>
+<p xml:id="subtitle160" begin="5250662082t" end="5263174582t" region="region0" style="style0">Was ist los?</p>
+<p xml:id="subtitle161" begin="5264008750t" end="5298209582t" region="region0" style="style0">Längs kann man sie schneiden,<br/>aber quer gibt es Widerstand.</p>
+<p xml:id="subtitle162" begin="5299043750t" end="5320315000t" region="region0" style="style0">Wenn wir Pilzmonster bekämpfen,</p>
+<p xml:id="subtitle163" begin="5321149166t" end="5349093750t" region="region0" style="style0">sind diagonale<br/>und horizontale Hiebe weniger effektiv.</p>
+<p xml:id="subtitle164" begin="5354932916t" end="5368279582t" region="region0" style="style0">Gut zu wissen.</p>
+<p xml:id="subtitle165" begin="5369113750t" end="5397892500t" region="region0" style="style0">Sieht aus wie Essen,<br/>wenn man es schneidet.</p>
+<p xml:id="subtitle166" begin="5398726666t" end="5407068332t" region="region0" style="style0">Von wegen.</p>
+<p xml:id="subtitle167" begin="5432927500t" end="5448359582t" region="region0" style="style0">Hey, warte!</p>
+<p xml:id="subtitle168" begin="5449193750t" end="5483811666t" region="region0" style="style0">Wir essen ihn so? Was ist mit dem Gift?</p>
+<p xml:id="subtitle169" begin="5484645832t" end="5510087916t" region="region0" style="style0">Das Gift des Skorpions ist essbar.</p>
+<p xml:id="subtitle170" begin="5528022500t" end="5536364166t" region="region0" style="style0">Sicher?</p>
+<p xml:id="subtitle171" begin="5537198332t" end="5562223332t" region="region0" style="style0">Laut Buch schon. Ich will es probieren.</p>
+<p xml:id="subtitle172" begin="5578072500t" end="5594755832t" region="region0" style="style0">Würg.</p>
+<p xml:id="subtitle173" begin="5606017082t" end="5616861250t" region="region0" style="style0">Sag ich doch.</p>
+<p xml:id="subtitle174" begin="5617695416t" end="5628539582t" region="region0" style="style0">Keine Bewegung.</p>
+<p xml:id="subtitle175" begin="5642303332t" end="5658986666t" region="region0" style="style0">Skorpion-Feuertopf, was?</p>
+<p xml:id="subtitle176" begin="5659820832t" end="5688599582t" region="region0" style="style0">Aber eure Methode lässt zu wünschen übrig.</p>
+<p xml:id="subtitle177" begin="5689433750t" end="5700695000t" region="region0" style="style0">Wer bist du denn?</p>
+<p xml:id="subtitle178" begin="5701529166t" end="5725302916t" region="region0" style="style0">Wenn ihr dieses Monster esst,</p>
+<p xml:id="subtitle179" begin="5726137082t" end="5768679582t" region="region0" style="style0">müsst ihr Scheren,<br/>Kopf und Beine abschneiden.</p>
+<p xml:id="subtitle180" begin="5775352916t" end="5793704582t" region="region0" style="style0">Der Schwanz ist unbekömmlich.</p>
+<p xml:id="subtitle181" begin="5794538750t" end="5823317500t" region="region0" style="style0">Laut Buch ist es in Ordnung.</p>
+<p xml:id="subtitle182" begin="5824151666t" end="5843754582t" region="region0" style="style0">Jedenfalls schmeckt er nicht.</p>
+<p xml:id="subtitle183" begin="5844588750t" end="5871282082t" region="region0" style="style0">Das Fleisch muss man auch filetieren.</p>
+<p xml:id="subtitle184" begin="5872116250t" end="5913824582t" region="region0" style="style0">Dann gart es leichter durch,<br/>und der Saft wird eine köstliche Brühe.</p>
+<p xml:id="subtitle185" begin="5914658750t" end="5933844582t" region="region0" style="style0">Es ist auch leichter zu essen.</p>
+<p xml:id="subtitle186" begin="5934678750t" end="5958869582t" region="region0" style="style0">Und entfernt die inneren Organe.</p>
+<p xml:id="subtitle187" begin="5959703750t" end="5978889582t" region="region0" style="style0">Sie sind bitter und zäh.</p>
+<p xml:id="subtitle188" begin="5979723750t" end="5994321666t" region="region0" style="style0">Was den Pilz angeht,</p>
+<p xml:id="subtitle189" begin="5995155832t" end="6024768750t" region="region0" style="style0">werft den Boden und die äußeren 3 cm weg.</p>
+<p xml:id="subtitle190" begin="6025602916t" end="6045205832t" region="region0" style="style0">Die Füße sind aber lecker.</p>
+<p xml:id="subtitle191" begin="6046040000t" end="6063974582t" region="region0" style="style0">Die Füße sind lecker?</p>
+<p xml:id="subtitle192" begin="6064808750t" end="6096090000t" region="region0" style="style0">Ja, sie riechen einzigartig, oder?</p>
+<p xml:id="subtitle193" begin="6096924166t" end="6112773332t" region="region0" style="style0"><span style="style1">Der Geruch der Füße, was?</span></p>
+<p xml:id="subtitle194" begin="6113607500t" end="6135295832t" region="region0" style="style0">Der Topf ist zu klein.</p>
+<p xml:id="subtitle195" begin="6141135000t" end="6154898750t" region="region0" style="style0">Nehmen wir meinen.</p>
+<p xml:id="subtitle196" begin="6164908750t" end="6180340832t" region="region0" style="style0">Du bist gut vorbereitet.</p>
+<p xml:id="subtitle197" begin="6187014166t" end="6218712500t" region="region0" style="style0">Da fehlt doch noch was.</p>
+<p xml:id="subtitle198" begin="6276270000t" end="6285862916t" region="region0" style="style0">Hier.</p>
+<p xml:id="subtitle199" begin="6286697082t" end="6305048750t" region="region0" style="style0">Das esse ich auf keinen Fall.</p>
+<p xml:id="subtitle200" begin="6305882916t" end="6332993332t" region="region0" style="style0">-Marcille?<br/>-In einer Million Jahre nicht.</p>
+<p xml:id="subtitle201" begin="6333827500t" end="6349259582t" region="region0" style="style0">Das ist ein Friedhof.</p>
+<p xml:id="subtitle202" begin="6350093750t" end="6369279582t" region="region0" style="style0">Monster gehen ja noch,</p>
+<p xml:id="subtitle203" begin="6370113750t" end="6391802082t" region="region0" style="style0">aber Wurzeln kommen nicht in Frage.</p>
+<p xml:id="subtitle204" begin="6392636250t" end="6416410000t" region="region0" style="style0">Sieht das nicht gut genug aus?</p>
+<p xml:id="subtitle205" begin="6417244166t" end="6438515416t" region="region0" style="style0">-Marcille!<br/>-Wer zum Teufel bist du?</p>
+<p xml:id="subtitle206" begin="6439349582t" end="6454781666t" region="region0" style="style0">-Sieh nach oben!<br/>-Was?</p>
+<p xml:id="subtitle207" begin="6514841666t" end="6524017500t" region="region0" style="style0">Ein Schleim!</p>
+<p xml:id="subtitle208" begin="6524851666t" end="6549042500t" region="region0" style="style0"><span style="style1">Verdammt, er verdeckt mein Gesicht.</span></p>
+<p xml:id="subtitle209" begin="6554881666t" end="6579072500t" region="region0" style="style0"><span style="style1">Oh nein, ich kann nicht zaubern.</span></p>
+<p xml:id="subtitle210" begin="6579906666t" end="6619112500t" region="region0" style="style0"><span style="style1">Meinen ersten Tod<br/>verursachte auch ein Schleim.</span></p>
+<p xml:id="subtitle211" begin="6681257916t" end="6700026666t" region="region0" style="style0">-Alles klar?<br/>-Ja.</p>
+<p xml:id="subtitle212" begin="6700860832t" end="6716292916t" region="region0" style="style0">Er ist in meiner Nase.</p>
+<p xml:id="subtitle213" begin="6717127082t" end="6730473749t" region="region0" style="style0">Schneuz mal.</p>
+<p xml:id="subtitle214" begin="6736312916t" end="6762589166t" region="region0" style="style0">Du erledigst Schleim nur mit einem Messer?</p>
+<p xml:id="subtitle215" begin="6763423332t" end="6788031249t" region="region0" style="style0">Man muss nur seinen Aufbau kennen.</p>
+<p xml:id="subtitle216" begin="6793870416t" end="6810970832t" region="region0" style="style0">Sie sehen zwar amorph aus,</p>
+<p xml:id="subtitle217" begin="6811804999t" end="6838915416t" region="region0" style="style0">sind aber strukturierter als Menschen.</p>
+<p xml:id="subtitle218" begin="6848925416t" end="6877704166t" region="region0" style="style0">Das ist das Innere eines Schleims.</p>
+<p xml:id="subtitle219" begin="6878538332t" end="6903980416t" region="region0" style="style0">Der Magen ist umgekehrt</p>
+<p xml:id="subtitle220" begin="6904814582t" end="6940683749t" region="region0" style="style0">und bedeckt innere Organe<br/>und Kopf mit Verdauungsflüssigkeit.</p>
+<p xml:id="subtitle221" begin="6941517916t" end="6979472499t" region="region0" style="style0">Er spürt die Atmung<br/>seiner Beute und wird aktiv.</p>
+<p xml:id="subtitle222" begin="6980306666t" end="7027019999t" region="region0" style="style0">Man ist also ein leichteres Ziel,<br/>wenn man laut schreit.</p>
+<p xml:id="subtitle223" begin="7027854166t" end="7052462082t" region="region0" style="style0">So ist er nicht genießbar,</p>
+<p xml:id="subtitle224" begin="7053296249t" end="7090416666t" region="region0" style="style0">aber man kann Zitrussaft hinzufügen<br/>und ihn in heißem Wasser waschen.</p>
+<p xml:id="subtitle225" begin="7091250832t" end="7107517082t" region="region0" style="style0">Dann trocknet man ihn ab</p>
+<p xml:id="subtitle226" begin="7108351249t" end="7144637499t" region="region0" style="style0">oder pökelt ihn<br/>und trocknet ihn in der Sonne.</p>
+<p xml:id="subtitle227" begin="7145471666t" end="7164657499t" region="region0" style="style0">Das ist eine Delikatesse.</p>
+<p xml:id="subtitle228" begin="7165491666t" end="7200109582t" region="region0" style="style0">Am besten lässt man ihn<br/>zwei Wochen lang ziehen.</p>
+<p xml:id="subtitle229" begin="7200943749t" end="7224717499t" region="region0" style="style0">Das Trocknen dauert auch.</p>
+<p xml:id="subtitle230" begin="7225551666t" end="7259752499t" region="region0" style="style0">Das ist mein eigenes<br/>tragbares Schleimtrocknernetz.</p>
+<p xml:id="subtitle231" begin="7265591666t" end="7279772499t" region="region0" style="style0">Man klemmt ihn so ein,</p>
+<p xml:id="subtitle232" begin="7280606666t" end="7305214582t" region="region0" style="style0">und er trocknet beim Herumlaufen.</p>
+<p xml:id="subtitle233" begin="7310636666t" end="7331907916t" region="region0" style="style0">Das dauert eine Weile,</p>
+<p xml:id="subtitle234" begin="7340666666t" end="7356098749t" region="region0" style="style0">aber dann wird er so.</p>
+<p xml:id="subtitle235" begin="7363606249t" end="7381123749t" region="region0" style="style0">Den nehmen wir heute.</p>
+<p xml:id="subtitle236" begin="7386962916t" end="7414907499t" region="region0" style="style0">-Ist das nicht eine Delikatesse?<br/>-Schon gut.</p>
+<p xml:id="subtitle237" begin="7420746666t" end="7467042916t" region="region0" style="style0">Ich erforsche Monsteressen<br/>in diesem Dungeon seit über zehn Jahren.</p>
+<p xml:id="subtitle238" begin="7472047916t" end="7512504999t" region="region0" style="style0">Nichts macht mich glücklicher<br/>als Interesse an Monsterküche.</p>
+<p xml:id="subtitle239" begin="7513339166t" end="7526268749t" region="region0" style="style0">Zehn Jahre?</p>
+<p xml:id="subtitle240" begin="7527102916t" end="7552544999t" region="region0" style="style0">Ist der Kerker schon so lange hier?</p>
+<p xml:id="subtitle241" begin="7559218332t" end="7575067499t" region="region0" style="style0">Gut, wartet nur.</p>
+<p xml:id="subtitle242" begin="7761503749t" end="7774850416t" region="region1" style="style0">Essen ist fertig!</p>
+<p xml:id="subtitle243" begin="7775684582t" end="7792784999t" region="region1" style="style0">SKORPION-PILZ-FEUERTOPF</p>
+<p xml:id="subtitle244" begin="7829905416t" end="7856181666t" region="region0" style="style0">Gekochte Riesenskorpione werden rot?</p>
+<p xml:id="subtitle245" begin="7857015832t" end="7880789582t" region="region0" style="style0">Es fühlt sich so anders an.</p>
+<p xml:id="subtitle246" begin="7891216666t" end="7911653749t" region="region0" style="style0">Es riecht irgendwie lecker.</p>
+<p xml:id="subtitle247" begin="7912487916t" end="7940015416t" region="region0" style="style0">Das Fleisch zieht sich<br/>beim Kochen zusammen</p>
+<p xml:id="subtitle248" begin="7940849582t" end="7957949999t" region="region0" style="style0">und fällt leicht auseinander.</p>
+<p xml:id="subtitle249" begin="7966708749t" end="7977969999t" region="region0" style="style0">Du hast recht.</p>
+<p xml:id="subtitle250" begin="8009668332t" end="8018009999t" region="region0" style="style0">Lecker!</p>
+<p xml:id="subtitle251" begin="8025100416t" end="8039281249t" region="region0" style="style0">Nicht wahr?</p>
+<p xml:id="subtitle252" begin="8040115416t" end="8063054999t" region="region0" style="style0">Die Zubereitung bringt echt was.</p>
+<p xml:id="subtitle253" begin="8063889166t" end="8083492082t" region="region0" style="style0">Nicht wahr?</p>
+<p xml:id="subtitle254" begin="8084326249t" end="8103094999t" region="region0" style="style0">Wie lecker! Ich bin schockiert!</p>
+<p xml:id="subtitle255" begin="8103929166t" end="8123114999t" region="region0" style="style0">Nicht wahr?</p>
+<p xml:id="subtitle256" begin="8153979166t" end="8175667499t" region="region0" style="style0">Gib mir auch was.</p>
+<p xml:id="subtitle257" begin="8191516666t" end="8206948749t" region="region0" style="style0">Was ist das?</p>
+<p xml:id="subtitle258" begin="8207782916t" end="8230305416t" region="region0" style="style0">Getrocknete Schleimgeweide.</p>
+<p xml:id="subtitle259" begin="8262003749t" end="8273264999t" region="region0" style="style0">Lecker!</p>
+<p xml:id="subtitle260" begin="8274099166t" end="8304546249t" region="region0" style="style0">So isst man also Schleim?</p>
+<p xml:id="subtitle261" begin="8305380416t" end="8333742082t" region="region0" style="style0">In Fruchtsaft getränkt<br/>schmeckt er auch gut.</p>
+<p xml:id="subtitle262" begin="8334576249t" end="8364189166t" region="region0" style="style0">Und diese Baumwurzeln<br/>sind so schön fluffig.</p>
+<p xml:id="subtitle263" begin="8365023332t" end="8382540832t" region="region0" style="style0">Das sind keine Wurzeln.</p>
+<p xml:id="subtitle264" begin="8383374999t" end="8415907499t" region="region0" style="style0">Das sind Baumstämme,<br/>die kopfüber in den Dungeon wachsen.</p>
+<p xml:id="subtitle265" begin="8416741666t" end="8440932499t" region="region0" style="style0">Diese Algen sind so weich und lecker.</p>
+<p xml:id="subtitle266" begin="8441766666t" end="8468042916t" region="region0" style="style0">Wachsen die auch im Dungeon?</p>
+<p xml:id="subtitle267" begin="8468877082t" end="8502243749t" region="region0" style="style0">Das sind gewöhnliche Algen,<br/>die an feuchten Orten wachsen.</p>
+<p xml:id="subtitle268" begin="8503077916t" end="8542283749t" region="region0" style="style0">Ich kann nicht glauben,<br/>dass das alles aus dem Dungeon stammt.</p>
+<p xml:id="subtitle269" begin="8588162916t" end="8611102500t" region="region0" style="style0">Ich bin pappsatt.</p>
+<p xml:id="subtitle270" begin="8611936666t" end="8628202916t" region="region0" style="style0">Wie heißt du eigentlich?</p>
+<p xml:id="subtitle271" begin="8638212916t" end="8654062082t" region="region0" style="style0">Ich heiße Senshi.</p>
+<p xml:id="subtitle272" begin="8654896250t" end="8678252916t" region="region0" style="style0">Das bedeutet &quot;Forscher&quot; auf Zwergisch.</p>
+<p xml:id="subtitle273" begin="8688262916t" end="8698272916t" region="region0" style="style0">Ich bin Laios.</p>
+<p xml:id="subtitle274" begin="8699107082t" end="8727468750t" region="region0" style="style0">Das sind Marcille, Zauberin,<br/>und Chilchuck, Dieb.</p>
+<p xml:id="subtitle275" begin="8733307916t" end="8758332916t" region="region0" style="style0">Ihr seid wohl auf einer Mission.</p>
+<p xml:id="subtitle276" begin="8759167082t" end="8773765000t" region="region0" style="style0">Ja, das stimmt.</p>
+<p xml:id="subtitle277" begin="8780855416t" end="8815890416t" region="region1" style="style0">Eine Gefährtin wurde<br/>von einem Monster gefressen.</p>
+<p xml:id="subtitle278" begin="8823815000t" end="8842583750t" region="region1" style="style0">Wir wollen sie retten.</p>
+<p xml:id="subtitle279" begin="8853427916t" end="8881372500t" region="region0" style="style0">Von einem Monster? Welcher Art?</p>
+<p xml:id="subtitle280" begin="8882206666t" end="8899724166t" region="region0" style="style0">Ein scharlachroter Drache.</p>
+<p xml:id="subtitle281" begin="8908482916t" end="8931005416t" region="region0" style="style0">Ein scharlachroter Drache?</p>
+<p xml:id="subtitle282" begin="8936427500t" end="8951442500t" region="region0" style="style0">Der Rote Drache?</p>
+<p xml:id="subtitle283" begin="8957281666t" end="8978552916t" region="region0" style="style0"><span style="style1">Wegen ihrer großen Körper</span></p>
+<p xml:id="subtitle284" begin="8979387082t" end="8997738750t" region="region0" style="style0"><span style="style1">schlafen sie die meiste Zeit.</span></p>
+<p xml:id="subtitle285" begin="8998572916t" end="9029020000t" region="region0" style="style0">Sie verdauen auch langsamer<br/>als andere Monster.</p>
+<p xml:id="subtitle286" begin="9039864166t" end="9051542500t" region="region0" style="style0">Das hoffe ich.</p>
+<p xml:id="subtitle287" begin="9057381666t" end="9066557500t" region="region0" style="style0">Bitte.</p>
+<p xml:id="subtitle288" begin="9067391666t" end="9097838750t" region="region0" style="style0">Würdet ihr mir erlauben,<br/>euch zu begleiten?</p>
+<p xml:id="subtitle289" begin="9098672916t" end="9116607500t" region="region0" style="style0">Du bist herzlich willkommen.</p>
+<p xml:id="subtitle290" begin="9117441666t" end="9141632500t" region="region0" style="style0">Es wäre uns auch eine große Hilfe.</p>
+<p xml:id="subtitle291" begin="9142466666t" end="9166657500t" region="region0" style="style0">Wirklich?</p>
+<p xml:id="subtitle292" begin="9173747916t" end="9194185000t" region="region0" style="style0">-Danke.<br/>-Ebenso.</p>
+<p xml:id="subtitle293" begin="9195019166t" end="9234225000t" region="region0" style="style0">Ich träume seit Jahren davon,<br/>den Roten Drachen zu kochen.</p>
+<p xml:id="subtitle294" begin="9240064166t" end="9254662082t" region="region0" style="style0">Der Rote Drache.</p>
+<p xml:id="subtitle295" begin="9255496250t" end="9296787500t" region="region0" style="style0">Mache ich ein traditionelles Steak<br/>oder einen Burger aus ihm?</p>
+<p xml:id="subtitle296" begin="9297621666t" end="9319310000t" region="region0" style="style0">Shabu shabu ist auch toll.</p>
+<p xml:id="subtitle297" begin="9320144166t" end="9354345000t" region="region0" style="style0">Nein, eine Drachen-Eier-Bowl<br/>wäre auch toll.</p>
+<p xml:id="subtitle298" begin="9388962916t" end="9411902500t" region="region0" style="style0"><span style="style1">Ist es ok, das zu essen?</span></p>
+<p xml:id="subtitle299" begin="9425249166t" end="9464872082t" region="region0" style="style0"><span style="style1">Das dachten alle,<br/>aber niemand sagte ein Wort.</span></p>
+<p xml:id="subtitle300" begin="9503660832t" end="9519510000t" region="region0" style="style0"><span style="style1">Zweites Untergeschoss.</span></p>
+<p xml:id="subtitle301" begin="9525349166t" end="9554545000t" region="region0" style="style0"><span style="style1">Anders als der Friedhof<br/>im ersten Untergeschoss</span></p>
+<p xml:id="subtitle302" begin="9555379166t" end="9584575000t" region="region0" style="style0"><span style="style1">breitet sich hier<br/>ein ungewöhnlicher Anblick aus.</span></p>
+<p xml:id="subtitle303" begin="9590414166t" end="9602926666t" region="region0" style="style0"><span style="style1">Laut Wissenschaftlern</span></p>
+<p xml:id="subtitle304" begin="9603760832t" end="9649640000t" region="region0" style="style0"><span style="style1">ist das der Turm der Goldenen Burg,<br/>die tief unter der Erde liegt.</span></p>
+<p xml:id="subtitle305" begin="9650474166t" end="9676750416t" region="region0" style="style0">Ich habe mich das immer gefragt,</p>
+<p xml:id="subtitle306" begin="9677584582t" end="9709700000t" region="region0" style="style0">aber warum wachsen diese Bäume<br/>nicht an die Oberfläche?</p>
+<p xml:id="subtitle307" begin="9710534166t" end="9735559166t" region="region0" style="style0">Ein Fluch hat diesen Dungeon erschaffen.</p>
+<p xml:id="subtitle308" begin="9753076666t" end="9774765000t" region="region0" style="style0">Marcille, geht es dir gut?</p>
+<p xml:id="subtitle309" begin="9775599166t" end="9804377916t" region="region0" style="style0">Ich bin über eine Lücke<br/>in der Brücke gestolpert.</p>
+<p xml:id="subtitle310" begin="9805212082t" end="9819810000t" region="region0" style="style0">Wir sind weit gelaufen.</p>
+<p xml:id="subtitle311" begin="9820644166t" end="9835659166t" region="region0" style="style0">Du bist sicher müde.</p>
+<p xml:id="subtitle312" begin="9841081250t" end="9866523332t" region="region0" style="style0">Suchen wir uns einen Zeltplatz.</p>
+<p xml:id="subtitle313" begin="9881121250t" end="9916156250t" region="region0" style="style0">Wir haben hier eine Nacht<br/>in einem hohlen Baum verbracht.</p>
+<p xml:id="subtitle314" begin="9916990416t" end="9927417500t" region="region0" style="style0">Ja, haben wir.</p>
+<p xml:id="subtitle315" begin="9933256666t" end="9962452500t" region="region0" style="style0">Ich habe mich<br/>an der Schweinesuppe verbrannt.</p>
+<p xml:id="subtitle316" begin="9973296666t" end="9981638332t" region="region0" style="style0">Suppe…</p>
+<p xml:id="subtitle317" begin="9982472500t" end="9998738750t" region="region0" style="style0">Hast du Hunger?</p>
+<p xml:id="subtitle318" begin="9999572916t" end="10030020000t" region="region0" style="style0">Ich habe noch<br/>Skorpionbrühe vom Mittagessen.</p>
+<p xml:id="subtitle319" begin="10030854166t" end="10042532500t" region="region0" style="style0">Lieber nicht.</p>
+<p xml:id="subtitle320" begin="10043366666t" end="10059215832t" region="region0" style="style0">Na dann.</p>
+<p xml:id="subtitle321" begin="10060050000t" end="10080070000t" region="region0" style="style0">Jagen wir unser Abendessen.</p>
+<p xml:id="subtitle322" begin="10080904166t" end="10100090000t" region="region0" style="style0">Meine Güte.</p>
+<p xml:id="subtitle323" begin="10106763332t" end="10131371250t" region="region0" style="style0">-Worauf hast du Lust?<br/>-Was?</p>
+<p xml:id="subtitle324" begin="10132205416t" end="10162652500t" region="region0" style="style0">Ich tue mein Bestes,<br/>um deine Bitte zu erfüllen.</p>
+<p xml:id="subtitle325" begin="10163486666t" end="10181421250t" region="region0" style="style0">Das sagst du, aber…</p>
+<p xml:id="subtitle326" begin="10203943750t" end="10221878332t" region="region0" style="style0">Wir essen Monster, oder?</p>
+<p xml:id="subtitle327" begin="10235225000t" end="10271511250t" region="region0" style="style0">Mir ist alles recht,<br/>solange es essbar ist.</p>
+<p xml:id="subtitle328" begin="10277350416t" end="10300290000t" region="region0" style="style0">Was für Monster leben in der Nähe?</p>
+<p xml:id="subtitle329" begin="10306963332t" end="10320310000t" region="region0" style="style0">Mal sehen.</p>
+<p xml:id="subtitle330" begin="10326149166t" end="10345335000t" region="region0" style="style0">Fledermäuse und Riesenratten.</p>
+<p xml:id="subtitle331" begin="10346169166t" end="10366606250t" region="region0" style="style0">Ich will nichts Unhygienisches.</p>
+<p xml:id="subtitle332" begin="10367440416t" end="10376616250t" region="region0" style="style0">Waldkobolde.</p>
+<p xml:id="subtitle333" begin="10377450416t" end="10392882500t" region="region0" style="style0">Halbmenschen? Nein.</p>
+<p xml:id="subtitle334" begin="10393716666t" end="10404143750t" region="region0" style="style0">Lebendige Rüstung.</p>
+<p xml:id="subtitle335" begin="10404977916t" end="10424580832t" region="region0" style="style0">Metall?</p>
+<p xml:id="subtitle336" begin="10425415000t" end="10462952500t" region="region0" style="style0">Gibt es nichts Normaleres<br/>wie Vögel oder Baumfrüchte?</p>
+<p xml:id="subtitle337" begin="10463786666t" end="10479218750t" region="region0" style="style0">Es gibt immer eine Person,</p>
+<p xml:id="subtitle338" begin="10480052916t" end="10519675832t" region="region0" style="style0">die jede Idee ablehnt,<br/>nachdem sie zustimmt, etwas zu essen.</p>
+<p xml:id="subtitle339" begin="10520510000t" end="10543032500t" region="region0" style="style0">Das ist doch nicht zu viel verlangt!</p>
+<p xml:id="subtitle340" begin="10549705832t" end="10575565000t" region="region0" style="style0">Normale Monster greifen keine Menschen an,</p>
+<p xml:id="subtitle341" begin="10576399166t" end="10593082500t" region="region0" style="style0">also sind sie schwieriger.</p>
+<p xml:id="subtitle342" begin="10599755832t" end="10630202916t" region="region0" style="style0">Kein Mittagessen ist umsonst.</p>
+<p xml:id="subtitle343" begin="10631037082t" end="10650640000t" region="region0" style="style0">Tut mir leid, das stimmt.</p>
+<p xml:id="subtitle344" begin="10651474166t" end="10661901250t" region="region0" style="style0">Aber weißt du,</p>
+<p xml:id="subtitle345" begin="10662735416t" end="10696519166t" region="region0" style="style0">wir könnten auf ein Monster treffen,<br/>das Fleisch frisst.</p>
+<p xml:id="subtitle346" begin="10697353332t" end="10720710000t" region="region0" style="style0">Dann können wir das genießen!</p>
+<p xml:id="subtitle347" begin="10721544166t" end="10744483750t" region="region0" style="style0">Ich halte davon nicht viel.</p>
+<p xml:id="subtitle348" begin="10745317916t" end="10784523750t" region="region0" style="style0">Zu dieser Jahreszeit<br/>gibt es viele Früchte.</p>
+<p xml:id="subtitle349" begin="10790362916t" end="10804543750t" region="region0" style="style0">Wirklich?</p>
+<p xml:id="subtitle350" begin="10814136666t" end="10824563750t" region="region0" style="style0">Ja.</p>
+<p xml:id="subtitle351" begin="10855427916t" end="10884623750t" region="region0" style="style0">Ausgerechnet Früchte<br/>von menschenfressenden Pflanzen!</p>
+<p xml:id="subtitle352" begin="10885457916t" end="10905060832t" region="region0" style="style0">Marcille, das ist falsch.</p>
+<p xml:id="subtitle353" begin="10905895000t" end="10924663750t" region="region0" style="style0">Das ist der gewöhnliche Name.</p>
+<p xml:id="subtitle354" begin="10925497916t" end="10959698750t" region="region0" style="style0">Diese Blume<br/>zum Beispiel ist eine Baraselia.</p>
+<p xml:id="subtitle355" begin="10966372082t" end="10984723750t" region="region0" style="style0">Sie wächst auf Monsterpfaden</p>
+<p xml:id="subtitle356" begin="10985557916t" end="11005995000t" region="region0" style="style0">und spuckt Schleim aus.</p>
+<p xml:id="subtitle357" begin="11006829166t" end="11032271250t" region="region0" style="style0">Berührt was den Schleim,<br/>zieht es ihn rein.</p>
+<p xml:id="subtitle358" begin="11053125416t" end="11077316250t" region="region0" style="style0">Es umwickelt Dinge,<br/>verdaut sie aber nicht.</p>
+<p xml:id="subtitle359" begin="11082738332t" end="11106929166t" region="region0" style="style0">Sie macht Kompost aus ihnen.</p>
+<p xml:id="subtitle360" begin="11107763332t" end="11137376250t" region="region0" style="style0">Aber sie nutzt auch Menschen<br/>als Nährstoffe.</p>
+<p xml:id="subtitle361" begin="11138210416t" end="11164486666t" region="region0" style="style0">Das Gemüse, das du gewöhnlich isst,</p>
+<p xml:id="subtitle362" begin="11165320832t" end="11201190000t" region="region0" style="style0">besteht auch<br/>aus toten Überresten und Tierdung.</p>
+<p xml:id="subtitle363" begin="11202024166t" end="11227466250t" region="region0" style="style0">Das ist logisch, aber…</p>
+<p xml:id="subtitle364" begin="11228300416t" end="11241230000t" region="region1" style="style0">Schon gut.</p>
+<p xml:id="subtitle365" begin="11242064166t" end="11259581666t" region="region1" style="style0">Es ist das zweite Untergeschoss.</p>
+<p xml:id="subtitle366" begin="11260415832t" end="11296702082t" region="region1" style="style0">Es würde auffallen,<br/>wenn hier eine Leiche vorbeirollt.</p>
+<p xml:id="subtitle367" begin="11297536250t" end="11332154166t" region="region1" style="style0">Sie haben Leute, die Leichen bergen,</p>
+<p xml:id="subtitle368" begin="11332988332t" end="11362184166t" region="region1" style="style0">und niemand würde hier gefressen werden.</p>
+<p xml:id="subtitle369" begin="11367606250t" end="11383872500t" region="region0" style="style0">Meinst du?</p>
+<p xml:id="subtitle370" begin="11384706666t" end="11407229166t" region="region0" style="style0">Heimlich können wir die nicht pflücken.</p>
+<p xml:id="subtitle371" begin="11418073332t" end="11436425000t" region="region0" style="style0">Wir müssen kämpfen.</p>
+<p xml:id="subtitle372" begin="11452274166t" end="11466037916t" region="region0" style="style0">Macht Platz.</p>
+<p xml:id="subtitle373" begin="11476047916t" end="11499404582t" region="region0" style="style0">Ich werde sie mit einem Mal los.</p>
+<p xml:id="subtitle374" begin="11510665832t" end="11534439582t" region="region0" style="style0"><span style="style1">Sperae Yeptum Rufermus.</span></p>
+<p xml:id="subtitle375" begin="11539861666t" end="11564052500t" region="region0" style="style0"><span style="style1">Alamandras Proju.</span></p>
+<p xml:id="subtitle376" begin="11564886666t" end="11585323750t" region="region0" style="style0"><span style="style1">Nexant Aslam.</span></p>
+<p xml:id="subtitle377" begin="11586157916t" end="11601590000t" region="region0" style="style0">Hör auf, du Idiot!</p>
+<p xml:id="subtitle378" begin="11602424166t" end="11618273332t" region="region1" style="style0">Warum?</p>
+<p xml:id="subtitle379" begin="11660398750t" end="11687092082t" region="region0" style="style0">Soll die Frucht<br/>von Magie getroffen werden?</p>
+<p xml:id="subtitle380" begin="11687926250t" end="11722127082t" region="region0" style="style0">Nimm nur so viel, wie du isst.<br/>Diese Regel gilt immer.</p>
+<p xml:id="subtitle381" begin="11722961250t" end="11745900832t" region="region0" style="style0">Das ist nicht die Zeit dafür!</p>
+<p xml:id="subtitle382" begin="11751740000t" end="11774679582t" region="region0" style="style0">Nein, lass mich los!</p>
+<p xml:id="subtitle383" begin="11828066250t" end="11846835000t" region="region0" style="style0">Sie verdauen Menschen nicht?</p>
+<p xml:id="subtitle384" begin="11847669166t" end="11866020832t" region="region0" style="style0">Aber sie essen sie doch!</p>
+<p xml:id="subtitle385" begin="11866855000t" end="11896885000t" region="region0" style="style0">Was? Manche können Dinge verdauen.</p>
+<p xml:id="subtitle386" begin="11897719166t" end="11912317082t" region="region0" style="style0">Kommt auf den Typen an.</p>
+<p xml:id="subtitle387" begin="11918156250t" end="11939427500t" region="region0" style="style0">Der Parasit, der dich im Griff hat,</p>
+<p xml:id="subtitle388" begin="11940261666t" end="11962367082t" region="region0" style="style0">pflanzt Samen in deiner Haut.</p>
+<p xml:id="subtitle389" begin="11963201250t" end="11981135832t" region="region0" style="style0">Das sind die Schlimmsten!</p>
+<p xml:id="subtitle390" begin="11991980000t" end="12007412082t" region="region0" style="style0">Halt still, Marcille.</p>
+<p xml:id="subtitle391" begin="12018256250t" end="12048286250t" region="region0" style="style0">Pflanzenmonster haben mehrere Gliedmaßen.</p>
+<p xml:id="subtitle392" begin="12049120416t" end="12071225832t" region="region0" style="style0">Es dauert ewig, sie einzeln zu bekämpfen.</p>
+<p xml:id="subtitle393" begin="12076230832t" end="12095416666t" region="region0" style="style0">Es gibt nur eine todsichere Stelle.</p>
+<p xml:id="subtitle394" begin="12103341250t" end="12115019582t" region="region0" style="style0">Die Wurzel!</p>
+<p xml:id="subtitle395" begin="12153391250t" end="12168823332t" region="region0" style="style0">Autsch.</p>
+<p xml:id="subtitle396" begin="12175079582t" end="12187175000t" region="region0" style="style0">Geht's dir gut?</p>
+<p xml:id="subtitle397" begin="12188009166t" end="12208863332t" region="region0" style="style0">Ja, danke, Laios.</p>
+<p xml:id="subtitle398" begin="12216370832t" end="12232637082t" region="region0" style="style0">-Wie war es?<br/>-Was?</p>
+<p xml:id="subtitle399" begin="12239310416t" end="12271842916t" region="region0" style="style0">Das ist Schattenschwanz,<br/>ein Parasit, der Samen</p>
+<p xml:id="subtitle400" begin="12272677082t" end="12287692082t" region="region0" style="style0">in der Haut vergräbt.</p>
+<p xml:id="subtitle401" begin="12288526250t" end="12328983332t" region="region0" style="style0">Anders als Baraselia,<br/>die Knochen brechen können,</p>
+<p xml:id="subtitle402" begin="12329817500t" end="12358596250t" region="region0" style="style0">muss er seine Beute lebend fangen.</p>
+<p xml:id="subtitle403" begin="12363601250t" end="12382787082t" region="region0" style="style0">Es ist ein feines Gleichgewicht.</p>
+<p xml:id="subtitle404" begin="12383621250t" end="12422827082t" region="region0" style="style0">Er immobilisiert seine Beute,<br/>ohne ihr Unbehagen zu bereiten.</p>
+<p xml:id="subtitle405" begin="12423661250t" end="12457862082t" region="region0" style="style0">Das fühlt sich sicher gut an. Wie war es?</p>
+<p xml:id="subtitle406" begin="12483721250t" end="12499153332t" region="region0" style="style0">Sie ist wieder sauer.</p>
+<p xml:id="subtitle407" begin="12499987500t" end="12527932082t" region="region0" style="style0">Du bist echt etwas zu weit gegangen.</p>
+<p xml:id="subtitle408" begin="12640127500t" end="12659313332t" region="region0" style="style0">Zuerst leicht dämpfen.</p>
+<p xml:id="subtitle409" begin="12666403750t" end="12689343332t" region="region0" style="style0">Dann um den Stiel einen Kreis schneiden.</p>
+<p xml:id="subtitle410" begin="12696433750t" end="12732720000t" region="region0" style="style0">Etwas drehen und ziehen,<br/>um die Samen herauszubekommen.</p>
+<p xml:id="subtitle411" begin="12737725000t" end="12756910832t" region="region0" style="style0">-Wow!<br/>-Die Haut abziehen,</p>
+<p xml:id="subtitle412" begin="12757745000t" end="12781935832t" region="region0" style="style0">die Haut weich schlagen</p>
+<p xml:id="subtitle413" begin="12791945832t" end="12809463332t" region="region0" style="style0">und die Pfanne damit bedecken.</p>
+<p xml:id="subtitle414" begin="12815302500t" end="12862850000t" region="region0" style="style0">Die unreife Frucht zermahlen,<br/>Schleim und Skorpionbrühe hinzufügen</p>
+<p xml:id="subtitle415" begin="12863684166t" end="12884538332t" region="region0" style="style0">und verrühren, bis es dick wird.</p>
+<p xml:id="subtitle416" begin="12885372500t" end="12916653750t" region="region0" style="style0">Wenn es glatt ist,<br/>den Rest der Skorpionbrühe</p>
+<p xml:id="subtitle417" begin="12917487916t" end="12943764166t" region="region0" style="style0">und Baumfrüchtestücke hinzugeben.</p>
+<p xml:id="subtitle418" begin="12944598332t" end="12974628332t" region="region0" style="style0">Ein wenig vermischen<br/>und in die Pfanne gießen.</p>
+<p xml:id="subtitle419" begin="12975462500t" end="12993397082t" region="region0" style="style0">Etwas kochen.</p>
+<p xml:id="subtitle420" begin="12994231250t" end="13017170832t" region="region0" style="style0">Ich will sie oben anbauen.</p>
+<p xml:id="subtitle421" begin="13018005000t" end="13032185832t" region="region0" style="style0">Auf keinen Fall!</p>
+<p xml:id="subtitle422" begin="13033020000t" end="13048035000t" region="region0" style="style0">Nein!</p>
+<p xml:id="subtitle423" begin="13058462082t" end="13097250832t" region="region0" style="style0">Wenn es anfängt zu blubbern,<br/>das restliche Obst hinzugeben.</p>
+<p xml:id="subtitle424" begin="13113934166t" end="13122275832t" region="region0" style="style0">Na also.</p>
+<p xml:id="subtitle425" begin="13128949166t" end="13141044582t" region="region0" style="style0">Fertig.</p>
+<p xml:id="subtitle426" begin="13141878750t" end="13162315832t" region="region0" style="style0">MENSCHENFRESSENDE OBSTTARTE</p>
+<p xml:id="subtitle427" begin="13163150000t" end="13176496666t" region="region0" style="style0">Eine Tarte?</p>
+<p xml:id="subtitle428" begin="13177330832t" end="13192345832t" region="region0" style="style0">Sieht zumindest so aus.</p>
+<p xml:id="subtitle429" begin="13198185000t" end="13222792916t" region="region0" style="style0">Die Kruste ist nur Backpapier. Lasst sie.</p>
+<p xml:id="subtitle430" begin="13234888332t" end="13264501250t" region="region0" style="style0">Sie ist salzig.<br/>Das habe ich nicht erwartet.</p>
+<p xml:id="subtitle431" begin="13265335416t" end="13279933332t" region="region0" style="style0">Ja, sie ist gut.</p>
+<p xml:id="subtitle432" begin="13286189582t" end="13319556250t" region="region0" style="style0">Probier mal, Marcille.<br/>Das schmeckt dir sicher.</p>
+<p xml:id="subtitle433" begin="13327480832t" end="13356676666t" region="region0" style="style0">Da ist nichts Menschenfressendes drin?</p>
+<p xml:id="subtitle434" begin="13362515832t" end="13400887500t" region="region0" style="style0">Nein, hätten wir Gelatine<br/>dieser Pflanzen verwendet,</p>
+<p xml:id="subtitle435" begin="13401721666t" end="13427163750t" region="region0" style="style0">wäre es noch besser geworden.</p>
+<p xml:id="subtitle436" begin="13427997916t" end="13447600832t" region="region0" style="style0">Der Schleim ist nicht ganz fest.</p>
+<p xml:id="subtitle437" begin="13512665832t" end="13532685832t" region="region0" style="style0">Das ist köstlich.</p>
+<p xml:id="subtitle438" begin="13533519999t" end="13561047499t" region="region0" style="style0">Die Früchte der Kompostpflanze<br/>sind frisch und süß,</p>
+<p xml:id="subtitle439" begin="13561881666t" end="13582735832t" region="region0" style="style0">die der Verdauungspflanzen reichhaltiger.</p>
+<p xml:id="subtitle440" begin="13588574999t" end="13607343749t" region="region0" style="style0">Aber ist das in Ordnung?</p>
+<p xml:id="subtitle441" begin="13608177916t" end="13637790832t" region="region0" style="style0">Werden sie nicht<br/>von anderen Tieren gefressen?</p>
+<p xml:id="subtitle442" begin="13638624999t" end="13666986666t" region="region0" style="style0">Wir klauen ihnen ja ihr Obst.</p>
+<p xml:id="subtitle443" begin="13673659999t" end="13694514166t" region="region0" style="style0">So sind fleischfressende Pflanzen.</p>
+<p xml:id="subtitle444" begin="13695348332t" end="13724544166t" region="region0" style="style0">Sie benutzen sie, um Beute zu fangen.</p>
+<p xml:id="subtitle445" begin="13725378332t" end="13736639582t" region="region0" style="style0">Oh, ich verstehe.</p>
+<p xml:id="subtitle446" begin="13747483749t" end="13774177082t" region="region0" style="style0">Ist diese Süße also einer ihrer Tricks?</p>
+<p xml:id="subtitle447" begin="13780016249t" end="13795031249t" region="region0" style="style0">Jetzt verstehe ich.</p>
+<p xml:id="subtitle448" begin="13818804999t" end="13850086249t" region="region0" style="style0">Ich bin so froh, dass du Interesse zeigst.</p>
+<p xml:id="subtitle449" begin="13850920416t" end="13861764582t" region="region0" style="style0">Hör auf!</p>
+<p xml:id="subtitle450" begin="13940176249t" end="13963949999t" region="region0" style="style0">Was machen wir mit der Leiche?</p>
+<p xml:id="subtitle451" begin="13964784166t" end="13986889582t" region="region0" style="style0">Wir können nicht zurück in die Stadt.</p>
+<p xml:id="subtitle452" begin="13992728749t" end="14014417082t" region="region0" style="style0">Soll ich sie wiederbeleben?</p>
+<p xml:id="subtitle453" begin="14019422082t" end="14046532499t" region="region0" style="style0">Nein, es kann sein,<br/>dass es nicht funktioniert.</p>
+<p xml:id="subtitle454" begin="14052371666t" end="14089909166t" region="region0" style="style0">Vielleicht nimmt sie jemand mit,<br/>wenn wir sie liegen lassen.</p>
+<p xml:id="subtitle455" begin="14090743332t" end="14102004582t" region="region0" style="style0">Ja.</p>
+<p xml:id="subtitle456" begin="14111597499t" end="14130783332t" region="region0" style="style0">So sieht sie jeder.</p>
+<p xml:id="subtitle457" begin="14149134999t" end="14172074582t" region="region0" style="style0">Sieht aus wie eine Hinrichtung.</p>
+<p xml:id="subtitle458" begin="14207109582t" end="14235471249t" region="region0" style="style0"><span style="style1">In jener Nacht<br/>hatte Marcille einen Albtraum.</span></p>
+<p xml:id="subtitle459" begin="14252154582t" end="14266335416t" region="region0" style="style0"><span style="style1">Dungeon-Essen.</span></p>
+<p xml:id="subtitle460" begin="14267169582t" end="14285521249t" region="region0" style="style0"><span style="style1">Essen oder gefressen werden.</span></p>
+<p xml:id="subtitle461" begin="14295531249t" end="14313882916t" region="region0" style="style0"><span style="style1">Es gibt keine Hierarchie.</span></p>
+<p xml:id="subtitle462" begin="14314717082t" end="14348083749t" region="region0" style="style0"><span style="style1">Essen ist ein Privileg der Lebenden.</span></p>
+<p xml:id="subtitle463" begin="14356842499t" end="14369772082t" region="region0" style="style0"><span style="style1">Dungeon-Essen.</span></p>
+<p xml:id="subtitle464" begin="14370606249t" end="14394797082t" region="region0" style="style0"><span style="style1">Oh, Dungeon-Essen.</span></p>
+<p xml:id="subtitle465" begin="15236054166t" end="15279013749t" region="region0" style="style0">DELICIOUS IN DUNGEON</p>
+<p xml:id="subtitle466" begin="15279847916t" end="15309460832t" region="region1" style="style0">Untertitel von: Benjamin Weidelener</p>
+</div>
+</body>
+</tt>
